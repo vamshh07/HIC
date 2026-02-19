@@ -2,3 +2,7 @@ streamlit
 numpy
 matplotlib
 pillow
+pandas
+seaborn
+tensorflow
+scikit-learn
